@@ -1,0 +1,11 @@
+google-cloud-bigquery-storage
+google-cloud-bigquery
+google-cloud-storage
+google-adk
+google-adk[extensions]>=1.30.0
+google-cloud-aiplatform>=1.141.0
+google-genai>=1.53.0
+google-auth>=2.39.1
+pyarrow
+streamlit
+python-dotenv
